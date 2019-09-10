@@ -1,2 +1,7 @@
-# interview
-leetcode datastructure 
+`1` 拿到题目，看一眼Difficulty，然后自己思考一下解题思路。如果解不出来，就记下在哪里卡住了，难点在哪。
+`2` 如果对应的题目有Solution，就看Solution，没有的话就点Discuss，按Most Votes排序，看排名最高的解法。
+`3`对比一下自己的解法与最优的解法的差别，总结一下为什么没想起来，记录下来这个思考的过程。
+`4` 关掉别人的代码，开始Coding，Debug，Submit。
+
+
+
